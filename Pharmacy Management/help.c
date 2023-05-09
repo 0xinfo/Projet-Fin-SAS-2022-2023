@@ -1,5 +1,5 @@
 #include "allibrc.h"
- 
+int = 0; 
 
 float max = 0;
 float result;
